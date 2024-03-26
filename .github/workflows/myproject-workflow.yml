@@ -8,7 +8,7 @@
 
 
 
-name: Java CI with Maven
+name: Java CI with Mavens
 
 on:
   push:
